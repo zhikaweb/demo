@@ -5,12 +5,8 @@
         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd"
         version="2.0">
     <namespace>my.taglib</namespace>
-    <tag>
-        <tag-name>app-root</tag-name>
-        <component>
-            <component-type>frontend.component</component-type>
-            <renderer-type>frontend.renderer</renderer-type>
-            <handler-class>frontend.FrontendComponentHandler</handler-class>
-        </component>
-    </tag>
+<!--    <tag>-->
+<!--        <tag-name>app-root</tag-name>-->
+<!--        <source>../olf-address/index.html</source>-->
+<!--    </tag>-->
 </facelet-taglib>
